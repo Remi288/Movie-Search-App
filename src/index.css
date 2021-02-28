@@ -71,5 +71,12 @@ small {
     grid-gap: 1rem;
     align-items: center;
   }
+  .input {
+    margin-bottom: 0;
+  }
+}
+
+.card {
+  padding: 2rem;
 }
 
